@@ -7,7 +7,7 @@ Hello, nice to meet you~
 
 This is aco from Shenzhen, China.
 
-I am interested in DIY. In my spare time, I want to share interesting DIY tips. My article will be published in my [blog](https://zhui.site)(zh-CN).
+I am interested in DIY. In my spare time, I want to share interesting DIY tips. My article will be published in my [blog](https://www.xiac.cn)(zh-CN).
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwvvv&layout=compact">
